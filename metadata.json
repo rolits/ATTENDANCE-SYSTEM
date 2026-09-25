@@ -1,0 +1,7 @@
+{
+  "name": "AU South QR Attendance System",
+  "description": "Modern, responsive QR-based attendance management system for the College of AU South teachers, staff, administrators, and attendance officers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
